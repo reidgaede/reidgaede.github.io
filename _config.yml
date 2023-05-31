@@ -2,7 +2,7 @@
 title: Reid Gaede
 email: reid.gaede@gmail.com
 url: https://reidgaede.github.io/
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Portfolio site for passionate front-end developer always looking for the next great challenge."
 keywords: "Cincinnati, Front-End, Front-End Developer, Fulbright, React, ReactJS, HTML, CSS"
 skills: "Software Developer - Self-Starter - Lifelong Learner"
 meta_author: Gaede Reid
@@ -17,43 +17,43 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
+# (5/31/23) Per instructions immediately above this comment, "commenting-out" `contact: static` immediately 
+# below this comment due to lack of experience with formspree.io: 
+# contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
 disqus_shortname: myshortname
 
+# (5/31/23) HERE (!!!) (seems) TO BE WHERE YOU ADJUST THE COLOR SCHEME (!!!):
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 212e3b #80B3FF # (5/31/23) Changed first value from 18bc9c to 212e3b.
+  primary-rgb: "24,288,156" #"128,179,255" # (5/31/23) Not sure what to do with this at the moment.
+  secondary: 03c49d #FD6E8A # (5/31/23) Changed first value from 2c3e50 to 03c49d.
+  secondary-dark: 233140 #A2122F # (5/31/23) Changed first value from 233140 to 02a181.
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Reid Gaede
   location: Location
-  social: Around the Web
+  social: For More Info
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  # (5/31/23) Need to see about replacing this "twitter" option with a button users can use to download my résumé:
   - title: twitter
     url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/reid-gaede/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/reidgaede
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Cincinnati, OH
+  - line: United States of America
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
