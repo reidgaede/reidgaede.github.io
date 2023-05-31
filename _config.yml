@@ -42,9 +42,6 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  # (5/31/23) Need to see about replacing this "twitter" option with a button users can use to download my résumé:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: linkedin
     url: https://www.linkedin.com/in/reid-gaede/
   - title: github
