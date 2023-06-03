@@ -2,11 +2,11 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: What'sToCome.png
+img: StockPriceAnalysisAndVisualization.png
 alt: image-alt
-project-date: Ongoing!
+project-date: April 2022
 # (6/2/23) I wonder if I can just "comment-out" the "client" field without consequence (...?):
-# client: Start Bootstrap
-category: Web/Full-Stack Development
+# client: Python for Data Science, Web and Core Programming Professional Concentration
+category: Data Science
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
