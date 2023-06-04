@@ -8,5 +8,12 @@ project-date: May 2023
 # (6/2/23) I wonder if I can just "comment-out" the "client" field without consequence (...?):
 # client: Self-Study
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: "ToDoToDay", principally built using ReactJS, CSS Modules, and JavaScript, is a variation on the classic "to-do list" interface that integrates the ["Eisenhower Matrix" task management concept](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method) purportedly popularized by the World War II-era general and later United States President of the same name. The project allows users to better manage their daily responsibilities by:
+- Uploading, one-by-one, tasks they believe they might need to complete for a given day (new/additional tasks can be uploaded at any time);
+- Organizing each task into one of four categories:
+  - Important and Urgent;
+  - Urgent but Not Important;
+  - Not Urgent but Important; and
+  - Not Urgent, Not Important; 
+- Striking each task as/when completed simply by clicking that task.
 ---
