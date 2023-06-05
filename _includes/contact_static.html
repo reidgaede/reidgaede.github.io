@@ -9,7 +9,12 @@
     </div>
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2">
-        <form action="//formspree.io/{{ site.email }}" method="POST" name="sentMessage" id="contactForm" novalidate>
+        <!--
+            (6/5/23) Replacing "//formspree.io/{{ site.email }}" as the value for the below `<form>` element's 
+            `action` attribute with "https://formspree.io/f/mlekylgn" per instructions obtained from Formspree's 
+            website:
+        -->
+        <form action="https://formspree.io/f/mlekylgn" method="POST" name="sentMessage" id="contactForm" novalidate>
           <div class="row control-group">
             <div class="form-group col-xs-12 floating-label-form-group controls">
               <label for="name">Name</label>
