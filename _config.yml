@@ -19,7 +19,7 @@ bing_verify:
 # - comment the line below if you want to stick with the default PHP contact form
 # (6/5/23) Upon being reminded that GitHub Pages does NOT (to my knowledge) work with PHP, "un-commenting-out" 
 # the `contact: static` line below this comment to reflect revised intention to use Formspree:
-# contact: static
+contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
