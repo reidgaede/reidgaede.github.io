@@ -23,7 +23,9 @@ bing_verify:
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+# (6/4/23) Line below this comment "commented-out" in hopes it will help PHP-based "contact_me.php" to
+# function correctly:
+# disqus_shortname: myshortname
 
 # (5/31/23) HERE (!!!) (seems) TO BE WHERE YOU ADJUST THE COLOR SCHEME (!!!):
 # Color settings (hex-codes without the leading hash-tag)
