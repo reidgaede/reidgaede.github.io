@@ -17,8 +17,8 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-# (5/31/23) Per instructions immediately above this comment, "commenting-out" `contact: static` immediately 
-# below this comment due to lack of experience with formspree.io: 
+# (6/5/23) Upon being reminded that GitHub Pages does NOT (to my knowledge) work with PHP, "un-commenting-out" 
+# the `contact: static` line below this comment to reflect revised intention to use Formspree:
 # contact: static
 
 # If you use disqus you need disqus shortname
